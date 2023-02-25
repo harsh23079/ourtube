@@ -43,6 +43,8 @@ a {
   border: none;
   outline: none;
   width: 350px;
+  position: relative;
+  left: 10px;
 }
 
 .category-btn {
