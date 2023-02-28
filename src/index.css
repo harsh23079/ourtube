@@ -50,7 +50,7 @@ a {
 .category-btn {
   font-weight: bold !important;
   text-transform: capitalize;
-  display: flex-start;
+  display: flex;
   align-items: center;
   justify-content: start;
   cursor: pointer;
